@@ -1,2 +1,2 @@
 # getting-start
-Brief description
+First time commit from here.
